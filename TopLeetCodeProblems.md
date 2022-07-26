@@ -53,7 +53,7 @@
 
 ## Matrix
 
-- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [ ] [Word Search](https://leetcode.com/problems/word-search/)
@@ -95,7 +95,7 @@
 
 ## Dynamic Programming
 
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
